@@ -15,8 +15,8 @@ Unidad 1: Sistemas Lineales
 Unidad 2: Sistemas No Lineales (Caso Unidimensional)
 - [RUTINA4](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA4.py): Método de la Bisección
 - [RUTINA5](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA5.py): Método de la Falsa Posición
-- [RUTINA6](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA6.py): Método del Punto fijo
-- [RUTINA7](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA7.py): Método de Newton-Raphson para sistemas no lineales *unidimensionales f(x)=0*
+- [RUTINA6](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA7.py): Método de Newton-Raphson para sistemas no lineales *unidimensionales f(x)=0*
+- [RUTINA7](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA6.py): Método del Punto fijo
 - [RUTINA8](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA8.py): Método de Secante
 
 Unidad 2: Sistemas No Lineales (Caso Multidimensional)
@@ -27,7 +27,7 @@ Unidad 2: Sistemas No Lineales (Caso Multidimensional)
 
 
 #### *Historial de actualizaciones de rutinas*:
-- _13/02/2026: Incorporacion de verificacion por determinante en `RUTINA1`, Actualizacion de producto con np.dot en `RUTINA2` y `RUTINA3`_
+- _13/02/2026: Incorporacion de verificacion por determinante en `RUTINA1`, Actualizacion de producto con np.dot en `RUTINA2` y `RUTINA3`_, `RUTINA 6` y `RUTINA 7` intercambiaron de nombre para coincidir con el [RUTINAS.txt](https://eaula.ing.una.py/pluginfile.php/230010/mod_resource/content/1/RUTINAS.txt) oficial de la catedra
 
 ##  Para la instalacion de Conda + VS Code
 
