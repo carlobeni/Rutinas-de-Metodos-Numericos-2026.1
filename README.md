@@ -16,11 +16,11 @@ Unidad 2: Sistemas No Lineales (Caso Unidimensional)
 - [RUTINA4](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA4.py): Método de la Bisección
 - [RUTINA5](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA5.py): Método de la Falsa Posición
 - [RUTINA6](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA6.py): Método del Punto fijo
-- [RUTINA7](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA7.py): Método de Newton-Raphson para sistemas no lineales *unidimensionales $f(x)=0$*
+- [RUTINA7](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA7.py): Método de Newton-Raphson para sistemas no lineales *unidimensionales f(x)=0*
 - [RUTINA8](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA8.py): Método de Secante
 
 Unidad 2: Sistemas No Lineales (Caso Multidimensional)
-- [RUTINA9](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA9.py): Método de Newton - Raphson para sistemas no lineales *multidimensionales $F(X)=0_n$*
+- [RUTINA9](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA9.py): Método de Newton - Raphson para sistemas no lineales *multidimensionales F(X)=0_n*
 
 
 
