@@ -11,4 +11,3 @@ for i in range(m):
         P0 = P
         break
     P0 = P
-
