@@ -19,9 +19,12 @@ Unidad 2: Sistemas No Lineales (Caso Unidimensional)
 - [RUTINA7](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA7.py): Método del Punto fijo
 - [RUTINA8](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA8.py): Método de Secante
 
-Unidad 2: Sistemas No Lineales (Caso Multidimensional)
+Unidad 2.2: Sistemas No Lineales (Caso Multidimensional) y Unidad 3: Optimización numérica
 - [RUTINA9](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA9.py): Método de Newton - Raphson para sistemas no lineales *multidimensionales F(X)=0_n*
 
+Unidad 4: Interpolacion e Integracion numerica
+- [RUTINA10](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA7.py): Polinomio interpolador de Lagrange
+- [RUTINA11](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA8.py): Polinomio interopolador de Newton
 
 
 
