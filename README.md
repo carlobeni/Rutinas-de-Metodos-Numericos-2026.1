@@ -24,7 +24,7 @@ Unidad 2.2: Sistemas No Lineales (Caso Multidimensional) y Unidad 3: Optimizaci�
 
 Unidad 4: Interpolacion e Integración numerica
 - [RUTINA10](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA10.py): Polinomio interpolador de Lagrange
-- [RUTINA11](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA11.py): Polinomio interopolador de Newton
+- [RUTINA11](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA11.py): Polinomio interpolador de Newton
 - [RUTINA12](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA12.py): Integración por Simpson 1/3
 - [RUTINA13](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA13.py): Integración por Simpson 3/8
 
