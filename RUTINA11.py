@@ -1,9 +1,3 @@
-import numpy as np
-import os
-os.system('cls')
-x=np.array(([5,8,12,12.7]),dtype=float)
-y=np.array(([104.2,140.2,181.7,180]),dtype=float)
-
 n=len(x)
 p=np.poly1d([1,-x[0]])
 P=np.poly1d([y[0]])
