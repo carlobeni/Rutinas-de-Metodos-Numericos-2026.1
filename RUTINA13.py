@@ -1,5 +1,5 @@
-A = 0.0
-h = (b - a) / n
-for xi in np.arange(a, b - 3*h , 3*h):
-    A = A + (3*h/8) * (f(xi) + 3*f(xi + h) + 3*f(xi + 2*h) + f(xi + 3*h))
-print(A)
+################RUTINA013##########################
+for i in range(1,n):
+ a=(y[i]-P(x[i]))/p(x[i])
+ P+=a*p
+ p=np.polymul(p,np.poly1d([1,-x[i]]))
