@@ -23,10 +23,14 @@ Unidad 2.2: Sistemas No Lineales (Caso Multidimensional) y Unidad 3: Optimizaci�
 - [RUTINA9](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA9.py): Método de Newton - Raphson para sistemas no lineales *multidimensionales F(X)=0_n*
 
 Unidad 4: Interpolacion e Integración numerica
-- [RUTINA10](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA10.py): Polinomio interpolador de Lagrange
-- [RUTINA11](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA11.py): Polinomio interpolador de Newton
-- [RUTINA12](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA12.py): Integración por Simpson 1/3
-- [RUTINA13](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA13.py): Integración por Simpson 3/8
+- [RUTINA10](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA10.py): Calculo del coeficiente de correlación lineal
+- [RUTINA11](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA11.py): Polinomio interpolador por matriz de Vandermonde
+- [RUTINA12](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA12.py): Polinomio interpolador de Lagrange
+- [RUTINA13](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA13.py): Polinomio interpolador de Newton
+- [RUTINA14](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA14.py): Integración por el metodo del Trapecio
+- [RUTINA15](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA15.py): Integración por Simpson 1/3
+- [RUTINA16](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA16.py): Integración por Simpson 3/8
+
 
 
 
