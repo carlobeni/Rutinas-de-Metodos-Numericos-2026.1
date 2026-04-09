@@ -36,7 +36,9 @@ Unidad 4: Interpolacion e Integración numerica
 
 
 #### *Historial de actualizaciones de rutinas*:
-- _13/02/2026: Incorporacion de verificacion por determinante en `RUTINA1`, Actualizacion de producto con np.dot en `RUTINA2` y `RUTINA3`_, `RUTINA 6` y `RUTINA 7` intercambiaron de nombre para coincidir con el [RUTINAS.txt](https://eaula.ing.una.py/pluginfile.php/230010/mod_resource/content/1/RUTINAS.txt) oficial de la catedra
+- _13/02/2026_: Incorporacion de verificacion por determinante en `RUTINA1`, Actualizacion de producto con np.dot en `RUTINA2` y `RUTINA3`, `RUTINA 6` y `RUTINA 7` intercambiaron de nombre para coincidir con el [RUTINAS.txt](https://eaula.ing.una.py/pluginfile.php/230010/mod_resource/content/1/RUTINAS.txt) oficial de la catedra
+- _04/09/2026_: Incorporación del cálculo del coeficiente de correlación de Pearson en `RUTINA010` para evaluar la calidad del ajuste no lineal, implementación de interpolación polinómica mediante matriz de Vandermonde en `RUTINA011`, adición del método de interpolación de Lagrange en `RUTINA012` y construcción incremental del polinomio interpolante mediante el esquema de Newton en `RUTINA013`, además de la reubicación de las rutinas de cálculo de integrales a `RUTINA014`, `RUTINA015` y `RUTINA016`*
+
 
 ##  Para la instalacion de Conda + VS Code
 
