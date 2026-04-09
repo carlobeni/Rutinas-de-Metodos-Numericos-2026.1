@@ -1,9 +1,10 @@
-n=len(x)
-P=np.poly1d([0])
-for i in range(n):
- a=np.delete(np.arange(n),i)
- p=np.poly1d([1,-x[a[0]]])
- for j in range(1,n-1):
-  p=np.polymul(p,np.poly1d([1,-x[a[j]]]))
- P=np.polyadd(P,y[i]*p/p(x[i]))
-print(P)
+################RUTINA010##########################
+y_pred = (K_opt[0] * x_data + K_opt[1]) ** (-2)
+y_mean = jnp.mean(y_data)
+yp_mean = jnp.mean(y_pred)
+num = jnp.sum((y_data - y_mean) * (y_pred - yp_mean))
+den = jnp.sqrt(
+    jnp.sum((y_data - y_mean)**2) *
+    jnp.sum((y_pred - yp_mean)**2)
+)
+r = num / den
