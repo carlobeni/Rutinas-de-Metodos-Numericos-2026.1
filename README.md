@@ -32,7 +32,7 @@ Unidad 4: Interpolacion e Integración numerica
 - [RUTINA15](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA15.py): Integración por Simpson 1/3
 - [RUTINA15.1](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA15.1.py): Integración por Simpson 1/3 con datos tabulados
 - [RUTINA16](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA16.py): Integración por Simpson 3/8
-- [RUTINA16](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA16.1.py): Integración por Simpson 3/8 con datos tabulados
+- [RUTINA16.1](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA16.1.py): Integración por Simpson 3/8 con datos tabulados
 
 Unidad 5: Ecuaciones Diferenciales
 - [RUTINA17](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA17.py): Derivada por Diferencias Progresivas
