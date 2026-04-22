@@ -1,5 +1,5 @@
 ################RUTINA016.1##########################
 A = 0.0
 h = (b - a) / n
-for xi in np.arange(0, n, 3):
+for i in np.arange(0, n, 3):
     A = A + (3*h/8) * (y[i] + 3*y[i + h] + 3*y[i + 2] + y[i + 3])
