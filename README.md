@@ -36,16 +36,22 @@ Unidad 4: Interpolacion e Integración numerica
 
 Unidad 5: Ecuaciones Diferenciales
 - [RUTINA17](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA17.py): Derivada por Diferencias Progresivas
-- [RUTINA18](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA18.py): Derivada por Diferencias Centradas
+- [RUTINA18](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA18.py): Derivada por Diferencias Centradas 
 - [RUTINA19](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Derivada por Diferencias Regresivas
-
-
+- [RUTINA20](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Solucion de EDO por Euler
+- [RUTINA21](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Solucion de EDO por Taylor de O2 (tambien conocido como Euler O2)
+- [RUTINA21.1](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Solucion de EDO por Taylor de O3
+- [RUTINA21.2](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Solucion de EDO por Taylor de O4
+- [RUTINA22](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Solucion de EDO por Heun
+- [RUTINA23](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Solucion de EDO por Runge Kutta O4 (RK4)
 
 
 
 #### *Historial de actualizaciones de rutinas*:
 - _13/02/2026_: Incorporacion de verificacion por determinante en `RUTINA1`, Actualizacion de producto con np.dot en `RUTINA2` y `RUTINA3`, `RUTINA 6` y `RUTINA 7` intercambiaron de nombre para coincidir con el [RUTINAS.txt](https://eaula.ing.una.py/pluginfile.php/230010/mod_resource/content/1/RUTINAS.txt) oficial de la catedra
-- _04/09/2026_: Incorporación del cálculo del coeficiente de correlación de Pearson en `RUTINA010` para evaluar la calidad del ajuste no lineal, implementación de interpolación polinómica mediante matriz de Vandermonde en `RUTINA011`, adición del método de interpolación de Lagrange en `RUTINA012` y construcción incremental del polinomio interpolante mediante el esquema de Newton en `RUTINA013`, además de la reubicación de las rutinas de cálculo de integrales a `RUTINA014`, `RUTINA015` y `RUTINA016`*
+- _09/04/2026_: Incorporación del cálculo del coeficiente de correlación de Pearson en `RUTINA010` para evaluar la calidad del ajuste no lineal, implementación de interpolación polinómica mediante matriz de Vandermonde en `RUTINA011`, adición del método de interpolación de Lagrange en `RUTINA012` y construcción incremental del polinomio interpolante mediante el esquema de Newton en `RUTINA013`, además de la reubicación de las rutinas de cálculo de integrales a `RUTINA014`, `RUTINA015` y `RUTINA016`*
+- _21/04/2026_: Incorporación de las rutinas para datos tabulados de `RUTINA014.1`, `RUTINA015.1` y `RUTINA016.1` que corresponde a las versiones respectivas de las rutinas `RUTINA014`, `RUTINA015` y `RUTINA016` para funciones (Estas rutinas no estan en [RUTINAS.txt](https://eaula.ing.una.py/pluginfile.php/230010/mod_resource/content/1/RUTINAS.txt) por lo que el estudiante debe saber como editar las rutinas para funciones para derivar las variantes con datos tabulados)*
+- _21/04/2026_: Incorporación de las rutinas para datos tabulados de `RUTINA021.1` y `RUTINA021.2` que corresponden a las versiones de Orden 3 y 4 respectivamente de la `RUTINA021` (Estas rutinas no estan en [RUTINAS.txt](https://eaula.ing.una.py/pluginfile.php/230010/mod_resource/content/1/RUTINAS.txt) por lo que el estudiante debe saber como editar la `RUTINA21` para derivar las variantes de orden superior)*
 
 
 ##  Para la instalacion de Conda + VS Code
