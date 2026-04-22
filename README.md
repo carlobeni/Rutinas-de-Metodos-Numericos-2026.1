@@ -38,12 +38,12 @@ Unidad 5: Ecuaciones Diferenciales
 - [RUTINA17](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA17.py): Derivada por Diferencias Progresivas
 - [RUTINA18](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA18.py): Derivada por Diferencias Centradas 
 - [RUTINA19](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Derivada por Diferencias Regresivas
-- [RUTINA20](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Solucion de EDO por Euler
-- [RUTINA21](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Solucion de EDO por Taylor de O2 (tambien conocido como Euler O2)
-- [RUTINA21.1](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Solucion de EDO por Taylor de O3
-- [RUTINA21.2](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Solucion de EDO por Taylor de O4
-- [RUTINA22](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Solucion de EDO por Heun
-- [RUTINA23](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Solucion de EDO por Runge Kutta O4 (RK4)
+- [RUTINA20](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA20.py): Solucion de EDO por Euler
+- [RUTINA21](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA21.py): Solucion de EDO por Taylor de O2 (tambien conocido como Euler O2)
+- [RUTINA21.1](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA21.1.py): Solucion de EDO por Taylor de O3
+- [RUTINA21.2](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA21.2.py): Solucion de EDO por Taylor de O4
+- [RUTINA22](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA22.py): Solucion de EDO por Heun
+- [RUTINA23](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA23.py): Solucion de EDO por Runge Kutta O4 (RK4)
 
 
 
