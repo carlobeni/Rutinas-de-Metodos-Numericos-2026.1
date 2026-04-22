@@ -19,4 +19,3 @@ for i in range(n):
 
     y=y0+(h/6)*(dy0+2*dy1+2*dy2+dy3)
     y1=y.copy()
-################
