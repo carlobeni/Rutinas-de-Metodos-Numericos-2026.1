@@ -39,7 +39,7 @@ Unidad 5: Ecuaciones Diferenciales
 - [RUTINA18](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA18.py): Derivada por Diferencias Centradas 
 - [RUTINA19](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA19.py): Derivada por Diferencias Regresivas
 - [RUTINA20](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA20.py): Solucion de EDO por Euler
-- [RUTINA21](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA21.py): Solucion de EDO por Taylor de O2, O3 y O4 (En O1 es Euler)
+- [RUTINA21](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA21.py): Solucion de EDO por Taylor de O2, O3 y O4 (La Solucion de EDO por Taylor con O1 = Solucion de EDO por Euler)
 - [RUTINA22](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA22.py): Solucion de EDO por Heun
 - [RUTINA23](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA23.py): Solucion de EDO por Runge Kutta O4 (RK4)
 
