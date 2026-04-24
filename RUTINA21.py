@@ -33,8 +33,9 @@ for i in range(0, n):
     x0  = x1
     
 
-###########GENERALIZADO (Version con sympy, import sympy as sp)##############
+###########GENERALIZADO (Version con sympy con orden automatico, import sympy as sp)##############
 # x, y = sp.Symbol('x'), sp.Symbol('y')
+# n = orden
 df=[f]
 for i in range(n):
     df.append(sp.diff(df[i],'x')+sp.diff(df[i],'y')*f)
