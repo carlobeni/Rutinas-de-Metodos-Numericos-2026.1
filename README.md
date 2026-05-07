@@ -27,13 +27,9 @@ Unidad 4: Interpolacion e Integración numerica
 - [RUTINA11](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA11.py): Polinomio interpolador por matriz de Vandermonde
 - [RUTINA12](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA12.py): Polinomio interpolador de Lagrange
 - [RUTINA13](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA13.py): Polinomio interpolador de Newton
-- [RUTINA14](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA14.py): Integración por el metodo del Trapecio
-- [RUTINA14.1](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA14.1.py): Integración por el metodo del Trapecio con datos tabulados
-- [RUTINA15](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA15.py): Integración por Simpson 1/3
-- [RUTINA15.1](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA15.1.py): Integración por Simpson 1/3 con datos tabulados
-- [RUTINA16](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA16.py): Integración por Simpson 3/8
-- [RUTINA16.1](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA16.1.py): Integración por Simpson 3/8 con datos tabulados
-
+- [RUTINA14](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA14.py): Integración por el metodo del Trapecio (para datos tabulados/funcion)
+- [RUTINA15](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA15.py): Integración por Simpson 1/3 (para datos tabulados/funcion)
+- [RUTINA16](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA16.py): Integración por Simpson 3/8 (para datos tabulados/funcion)
 Unidad 5: Ecuaciones Diferenciales
 - [RUTINA17](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA17.py): Derivada por Diferencias Progresivas
 - [RUTINA18](https://github.com/carlobeni/Rutinas-de-Metodos-Numericos-2026.1/blob/main/RUTINA18.py): Derivada por Diferencias Centradas 
@@ -48,8 +44,9 @@ Unidad 5: Ecuaciones Diferenciales
 #### *Historial de actualizaciones de rutinas*:
 - _13/02/2026_: Incorporacion de verificacion por determinante en `RUTINA1`, Actualizacion de producto con np.dot en `RUTINA2` y `RUTINA3`, `RUTINA 6` y `RUTINA 7` intercambiaron de nombre para coincidir con el [RUTINAS.txt](https://eaula.ing.una.py/pluginfile.php/230010/mod_resource/content/1/RUTINAS.txt) oficial de la catedra
 - _09/04/2026_: Incorporación del cálculo del coeficiente de correlación de Pearson en `RUTINA010` para evaluar la calidad del ajuste no lineal, implementación de interpolación polinómica mediante matriz de Vandermonde en `RUTINA011`, adición del método de interpolación de Lagrange en `RUTINA012` y construcción incremental del polinomio interpolante mediante el esquema de Newton en `RUTINA013`, además de la reubicación de las rutinas de cálculo de integrales a `RUTINA014`, `RUTINA015` y `RUTINA016`*
-- _21/04/2026_: Incorporación de las rutinas para datos tabulados de `RUTINA014.1`, `RUTINA015.1` y `RUTINA016.1` que corresponde a las versiones respectivas de las rutinas `RUTINA014`, `RUTINA015` y `RUTINA016` para funciones (Estas rutinas no estan en [RUTINAS.txt](https://eaula.ing.una.py/pluginfile.php/230010/mod_resource/content/1/RUTINAS.txt) por lo que el estudiante debe saber como editar las rutinas para funciones para derivar las variantes con datos tabulados)*
-- _21/04/2026_: Incorporación de las rutinas para datos tabulados de `RUTINA021.1` y `RUTINA021.2` que corresponden a las versiones de Orden 3 y 4 respectivamente de la `RUTINA021` (Estas rutinas no estan en [RUTINAS.txt](https://eaula.ing.una.py/pluginfile.php/230010/mod_resource/content/1/RUTINAS.txt) por lo que el estudiante debe saber como editar la `RUTINA21` para derivar las variantes de orden superior)*
+- _21/04/2026_: Incorporación de las rutinas para datos tabulados de `RUTINA014.1`, `RUTINA015.1` y `RUTINA016.1` que corresponde a las versiones respectivas de las rutinas `RUTINA014`, `RUTINA015` y `RUTINA016` para funciones (Estas rutinas no estan en [RUTINAS.txt](https://eaula.ing.una.py/pluginfile.php/230010/mod_resource/content/1/RUTINAS.txt) por lo que el estudiante debe saber como editar las rutinas para funciones para derivar las variantes con datos tabulados)
+- _21/04/2026_: Incorporación de las rutinas para datos tabulados de `RUTINA021.1` y `RUTINA021.2` que corresponden a las versiones de Orden 3 y 4 respectivamente de la `RUTINA021` (Estas rutinas no estan en [RUTINAS.txt](https://eaula.ing.una.py/pluginfile.php/230010/mod_resource/content/1/RUTINAS.txt) por lo que el estudiante debe saber como editar la `RUTINA21` para derivar las variantes de orden superior)
+- _07/05/2026_: Actualizacion de `RUTINA014`, `RUTINA015` y `RUTINA016` a versiones flexibles a datos dados como funcion o datos tabulados
 
 
 ##  Para la instalacion de Conda + VS Code
